@@ -1,0 +1,6 @@
+c:\users\jamai\onedrive\documents\visual studio 2015\Projects\Interfaces_Abstract_Classes\Interfaces_Abstract_Classes\bin\Debug\Interfaces_Abstract_Classes.exe.config
+C:\Users\jamai\OneDrive\Documents\Visual Studio 2015\Projects\Interfaces_Abstract_Classes\Interfaces_Abstract_Classes\bin\Debug\Interfaces_Abstract_Classes.exe
+C:\Users\jamai\OneDrive\Documents\Visual Studio 2015\Projects\Interfaces_Abstract_Classes\Interfaces_Abstract_Classes\bin\Debug\Interfaces_Abstract_Classes.pdb
+C:\Users\jamai\OneDrive\Documents\Visual Studio 2015\Projects\Interfaces_Abstract_Classes\Interfaces_Abstract_Classes\obj\Debug\Interfaces_Abstract_Classes.csprojResolveAssemblyReference.cache
+C:\Users\jamai\OneDrive\Documents\Visual Studio 2015\Projects\Interfaces_Abstract_Classes\Interfaces_Abstract_Classes\obj\Debug\Interfaces_Abstract_Classes.exe
+C:\Users\jamai\OneDrive\Documents\Visual Studio 2015\Projects\Interfaces_Abstract_Classes\Interfaces_Abstract_Classes\obj\Debug\Interfaces_Abstract_Classes.pdb

@@ -1,0 +1,10 @@
+c:\users\jamai\onedrive\documents\visual studio 2015\Projects\EADmockTest\EADmockTest\bin\Debug\EADmockTest.exe.config
+c:\users\jamai\onedrive\documents\visual studio 2015\Projects\EADmockTest\EADmockTest\bin\Debug\EADmockTest.exe
+c:\users\jamai\onedrive\documents\visual studio 2015\Projects\EADmockTest\EADmockTest\bin\Debug\EADmockTest.pdb
+c:\users\jamai\onedrive\documents\visual studio 2015\Projects\EADmockTest\EADmockTest\obj\Debug\EADmockTest.csprojResolveAssemblyReference.cache
+c:\users\jamai\onedrive\documents\visual studio 2015\Projects\EADmockTest\EADmockTest\obj\Debug\EADmockTest.Form1.resources
+c:\users\jamai\onedrive\documents\visual studio 2015\Projects\EADmockTest\EADmockTest\obj\Debug\EADmockTest.Properties.Resources.resources
+c:\users\jamai\onedrive\documents\visual studio 2015\Projects\EADmockTest\EADmockTest\obj\Debug\EADmockTest.csproj.GenerateResource.Cache
+c:\users\jamai\onedrive\documents\visual studio 2015\Projects\EADmockTest\EADmockTest\obj\Debug\EADmockTest.exe
+c:\users\jamai\onedrive\documents\visual studio 2015\Projects\EADmockTest\EADmockTest\obj\Debug\EADmockTest.pdb
+C:\Users\jamai\OneDrive\Documents\Visual Studio 2015\Projects\EADmockTest\EADmockTest\obj\Debug\EADmockTest.Invoice.resources
